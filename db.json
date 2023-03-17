@@ -1,0 +1,29 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html",
+      "body": "html is ..."
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "body": "css is ..."
+    },
+    {
+      "title": "React",
+      "body": "React is ...",
+      "id": 3
+    },
+    {
+      "title": "html2",
+      "body": "html2 is ...",
+      "id": 4
+    },
+    {
+      "title": "Nextjs",
+      "body": "Nextjs is ...",
+      "id": 5
+    }
+  ]
+}
